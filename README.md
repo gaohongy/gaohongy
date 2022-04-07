@@ -91,20 +91,16 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C                        1 min               █████████████████████████   100.0% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-实验4                      1 min               ████████████████░░░░░░░░░   64.0% 
-实验3                      0 secs              █████████░░░░░░░░░░░░░░░░   36.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-实验2                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,7 +120,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/04/2022 18:45:46 UTC
+ Last Updated on 07/04/2022 18:44:09 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
