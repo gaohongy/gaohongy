@@ -91,15 +91,13 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      1 hr 20 mins        █████████████████████████   100.0% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+C++                      1 hr 20 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  1 hr 20 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Algorithm Competition Cod1 hr 20 mins        █████████████████████████   100.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Algorithm Competition Cod1 hr 20 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  1 hr 20 mins        █████████████████████████   100.0%
@@ -122,7 +120,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2022 18:47:11 UTC
+ Last Updated on 13/04/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
