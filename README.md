@@ -54,9 +54,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 144 Contributions in the Year 2022
+> 🏆 146 Contributions in the Year 2022
  > 
-> 📦 57.1 kB Used in GitHub's Storage 
+> 📦 57.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,8 +69,8 @@
 ```text
 🌞 Morning    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.38% 
 🌆 Daytime    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-🌃 Evening    45 commits     ██████░░░░░░░░░░░░░░░░░░░   26.79% 
-🌙 Night      61 commits     █████████░░░░░░░░░░░░░░░░   36.31%
+🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   25.6% 
+🌙 Night      63 commits     █████████░░░░░░░░░░░░░░░░   37.5%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -122,7 +122,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 18:45:19 UTC
+ Last Updated on 30/05/2022 18:48:00 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
