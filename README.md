@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 146 Contributions in the Year 2022
+> 🏆 149 Contributions in the Year 2022
  > 
-> 📦 57.5 kB Used in GitHub's Storage 
+> 📦 57.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.38% 
-🌆 Daytime    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   25.6% 
+🌞 Morning    44 commits     ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+🌆 Daytime    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+🌃 Evening    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.38% 
 🌙 Night      63 commits     █████████░░░░░░░░░░░░░░░░   37.5%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Monday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
 Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
@@ -122,7 +122,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 18:48:00 UTC
+ Last Updated on 31/05/2022 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
