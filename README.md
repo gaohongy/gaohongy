@@ -48,7 +48,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,48 +64,6 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    44 commits     ██████░░░░░░░░░░░░░░░░░░░   26.19% 
-🌆 Daytime    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-🌃 Evening    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.38% 
-🌙 Night      63 commits     █████████░░░░░░░░░░░░░░░░   37.5%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -122,7 +80,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:45:09 UTC
+ Last Updated on 04/09/2022 18:45:08 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
