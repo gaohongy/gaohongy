@@ -54,9 +54,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 150 Contributions in the Year 2022
+> 🏆 157 Contributions in the Year 2022
  > 
-> 📦 57.8 kB Used in GitHub's Storage 
+> 📦 58.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +69,16 @@
 ```text
 🌞 Morning    44 commits     ██████░░░░░░░░░░░░░░░░░░░   26.19% 
 🌆 Daytime    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-🌃 Evening    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.38% 
-🌙 Night      63 commits     █████████░░░░░░░░░░░░░░░░   37.5%
+🌃 Evening    48 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌙 Night      61 commits     █████████░░░░░░░░░░░░░░░░   36.31%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Wednesday    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Saturday     29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
@@ -122,7 +122,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:50:38 UTC
+ Last Updated on 15/09/2022 18:50:15 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
