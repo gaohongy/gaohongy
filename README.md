@@ -54,13 +54,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 157 Contributions in the Year 2022
+> 🏆 158 Contributions in the Year 2022
  > 
 > 📦 58.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -93,16 +93,16 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     32 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          32 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +122,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 18:52:52 UTC
+ Last Updated on 20/09/2022 18:51:02 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
