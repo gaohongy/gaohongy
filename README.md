@@ -48,7 +48,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,17 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     32 mins             █████████████████████████   100.0%
+Java                     32 mins             ████████████████████████░   95.73% 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          32 mins             █████████████████████████   100.0%
+Unknown Project          34 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.0%
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +123,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:51:02 UTC
+ Last Updated on 22/09/2022 18:51:18 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
