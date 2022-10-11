@@ -48,7 +48,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,7 +123,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 19:03:52 UTC
+ Last Updated on 11/10/2022 18:55:32 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
