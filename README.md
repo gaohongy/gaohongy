@@ -56,7 +56,7 @@
 
 > 🏆 158 Contributions in the Year 2022
  > 
-> 📦 58.8 kB Used in GitHub's Storage 
+> 📦 58.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +122,7 @@ C                        1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/G-ghy/G-ghy/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 19:03:42 UTC
+ Last Updated on 25/10/2022 19:21:21 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=G-ghy&bg_color=000000&color=ffff54&line=4e4c9e&point=38fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
