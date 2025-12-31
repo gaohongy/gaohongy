@@ -24,26 +24,34 @@
 
 <h2 align="center">About me</h2>
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am ghy from China.
-- 🔭 I’m currently pursuing my Master of Technology in Computer Science and Technology.
-- 🌱 I’m currently learning aaa, bbb, ccc.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about aaa, bbb, ccc.
+<!--- 👨‍💻 I am **Hongyu Gao**, a **Ph.D. Student** in Computer Science and Technology from China. -->
+- 👨‍💻 I am **Hongyu Gao**, a **primary school student** from China, currently exploring Computer Science.
+- 🔭 **Current Research:** High-Performance AI Infrastructure, focusing on Sparse Attention Mechanisms and Large-scale GNN Training Systems.
+- 🌱 **Expertise:** GPU Kernel Optimization (CUDA/C++), Heterogeneous Computing, and Deep Learning System Internals (PyTorch/DGL).
+<!--- 👯 **Looking to Collaborate:** I'm interested in open-source projects related to **AI Compilers**, **High-performance Kernels**, or **Distributed Training Systems**. -->
+<!--- 💬 **Ask me about:**
+  - Sparse Matrix Multiplication & Attention optimization.
+  - System-level bottlenecks in LLM/GNN training.
+  - Designing efficient Runtime Systems for heterogeneous hardware.
+- 📬 **Contact:** Feel free to reach out if you're interested in System-for-AI research! -->
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Research Interests & Tech Stack</h2>
 
 <p align="center">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+  
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda">
+  <img src="https://img.shields.io/badge/MPI-005500?style=for-the-badge&logo=linux&logoColor=white" alt="mpi">
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="cmake">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell">
 </p>
 
 
