@@ -68,10 +68,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=tokyonight" />
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=tokyonight)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaohongy&theme=tokyonight&utcOffset=8)
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaohongy&theme=tokyonight" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaohongy&theme=tokyonight)
 
 </p>
 
