@@ -65,15 +65,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=github) | ![](https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaohongy&theme=github&utcOffset=8) |
 | --- | --- |
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaohongy&theme=tokyonight&utcOffset=8" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaohongy&theme=tokyonight" />
-</p>
 
 
