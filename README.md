@@ -61,11 +61,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" style="display: inline-block; width: 45%;" />
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=github) | ![](https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark) |
-| --- | --- |
 -->
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=github) | ![](https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark) |
+| --- | --- |
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaohongy&theme=tokyonight" />
